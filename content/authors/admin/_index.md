@@ -21,9 +21,10 @@ organizations:
 bio: My research interests include measuring Quality of Experience for multimedia and modelling of legal knowledge.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Quality of Experience
+- video, immersive media
+- legal knowledge modelling
+- legal issues of cybersecurity
 
 education:
   courses:
@@ -51,6 +52,9 @@ social:
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/dawidjuszka
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/dawidjuszka/
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-7122-260X

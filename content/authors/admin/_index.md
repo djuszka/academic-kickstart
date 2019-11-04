@@ -51,9 +51,13 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=c6J3aloAAAAJ&hl=pl&oi=ao
-- icon: fa-orcid
-  icon_pack: fab
+- icon: orcid
+  icon_pack: ai
   link: https://orcid.org/0000-0002-7122-260X
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Dawid_Juszka
+
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen

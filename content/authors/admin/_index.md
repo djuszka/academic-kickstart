@@ -94,5 +94,4 @@ user_groups:
 - Visitors
 ---
 
-Dawid Juszka received his MSc and PhD degrees in telecommunications from the [AGH University of Science and Technology](https://www.agh.edu.pl/), Krakow, Poland in 2010 and 2018, respectively. Moreover, he received MSc and PhD degrees in law from the [Jagiellonian University](https://www.uj.edu.pl/), Krakow, Poland in 2013 and 2019, respectively. Currently he is working as an assistant professor at the [Department of Telecommunications](http://kt.agh.edu.pl/) of [AGH University](https://www.agh.edu.pl/). 
-
+Dawid Juszka received his MSc and PhD degrees in telecommunications from the [AGH University of Science and Technology](https://www.agh.edu.pl/), Krakow, Poland in 2010 and 2018, respectively. Moreover, he received MSc and PhD degrees in law from the [Jagiellonian University](https://www.uj.edu.pl/), Krakow, Poland in 2013 and 2019, respectively. Currently he is working as an assistant professor at the [Department of Telecommunications](http://kt.agh.edu.pl/) of [AGH University](https://www.agh.edu.pl/).

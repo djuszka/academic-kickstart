@@ -57,7 +57,16 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Dawid_Juszka
-
+- icon: publons
+  icon_pack: ai
+  link: https://publons.com/researcher/1751626/dawid-juszka/
+- icon: mendeley
+  icon_pack: ai
+  link: https://www.mendeley.com/profiles/dawid-juszka/
+- icon: academia
+  icon_pack: ai
+  link: https://www.academia.com/
+  
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen

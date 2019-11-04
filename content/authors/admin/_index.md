@@ -21,7 +21,8 @@ organizations:
 bio: My research interests include measuring Quality of Experience for multimedia and modelling of legal knowledge.
 
 interests:
-- Quality of Experience
+- Quality of Experience (QoE)
+- Human Factors influencing QoE
 - video, immersive media
 - legal knowledge modelling
 - legal issues of cybersecurity

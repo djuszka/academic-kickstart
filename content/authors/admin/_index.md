@@ -27,15 +27,18 @@ interests:
 
 education:
   courses:
+  - course: PhD in Law
+    institution: Jagiellonian University
+    year: 2019
   - course: PhD in Telecommunications
     institution: AGH University of Science and Technology
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 2018
+  - course: MSc in Law
+    institution: Jagiellonian University
+    year: 2013
+  - course: MSc in Electronics & Telecommunications
+    institution: AGH University of Science and Technology
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons

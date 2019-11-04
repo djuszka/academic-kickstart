@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Assitant Professor
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
@@ -48,9 +48,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:juszka@agh.edu.pl".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/dawidjuszka
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/dawidjuszka
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=c6J3aloAAAAJ&hl=pl&oi=ao
@@ -89,7 +89,5 @@ user_groups:
 - Visitors
 ---
 
-Dawid Juszka is an assistant professor at the Department of Telecommunications, Faculty of Computer Science, Electronics and Telecommunications, AGH University of Science and Technology. 
-His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dawid Juszka is an assistant professor at the Department of Telecommunications, Faculty of Computer Science, Electronics and Telecommunications, [AGH University of Science and Technology](https://www.agh.edu.pl/). 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 

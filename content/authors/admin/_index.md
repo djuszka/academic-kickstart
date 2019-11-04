@@ -51,12 +51,12 @@ social:
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/dawidjuszka
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=c6J3aloAAAAJ&hl=pl&oi=ao
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-7122-260X
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=c6J3aloAAAAJ&hl=pl&oi=ao
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Dawid_Juszka
@@ -89,5 +89,5 @@ user_groups:
 - Visitors
 ---
 
-Dawid Juszka is an assistant professor at the Department of Telecommunications, Faculty of Computer Science, Electronics and Telecommunications, [AGH University of Science and Technology](https://www.agh.edu.pl/). 
+Dawid Juszka received his MSc and PhD degrees in telecommunications from the [AGH University of Science and Technology](https://www.agh.edu.pl/), Krakow, Poland in 2010 and 2018, respectively. Moreover, he received MSc and PhD degrees in law from the [Jagiellonian University](https://www.uj.edu.pl/), Krakow, Poland in 2013 and 2019, respectively. Currently he is working as an assistant professor at the [Department of Telecommunications](http://kt.agh.edu.pl/) of [AGH University](https://www.agh.edu.pl/). 
 

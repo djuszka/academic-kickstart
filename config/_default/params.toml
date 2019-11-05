@@ -67,7 +67,7 @@ appointment_url = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-#  {icon = "map-pin", icon_pack = "fab", name = "office", link = "AGH University, Building B-9, room 3.11, ul. Czarnowiejska 74, 30-054 Kraków, Poland"},
+#  {icon = "map-pin", icon_pack = "fab", name = "office", link = "http://www.agh.edu.pl/"},
 #  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
 #  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
 #  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},

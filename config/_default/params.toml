@@ -66,7 +66,7 @@ appointment_url = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "handshake", icon_pack = "fas", name = "Email to book an appointment", link = ""}
+  {icon = "handshake", icon_pack = "fas", name = "Email to book an appointment", link = ""},
   {icon = "building", icon_pack = "fas", name = "AGH University, Building B-9, room 3.11", link = "https://www.facebook.com/Katedra.Telekomunikacji.AGH/photos/a.150899868359117/2144050522377365/?type=3&theater"},
   {icon = "address-book", icon_pack = "fas", name = "SKOS AGH", link = "https://skos.agh.edu.pl/osoba/dawid-juszka-9151.html"},
   {icon = "university", icon_pack = "fas", name = "Official AGH-UST address", link = "https://www.agh.edu.pl/en/university/contact/"},

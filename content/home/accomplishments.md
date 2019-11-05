@@ -59,13 +59,52 @@ date_format = "Jan 2006"
   description = "Special course of the Summer School on Law and Logic, held at the European University Institute in Florence, Italy."
 
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "AXELOS Global Best Practice"
+  organization_url = "https://www.axelos.com/"
+  title = "Prince2 Foundation Certificate in Project Management"
   url = ""
   certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  date_start = "2019-09-18"
+  date_end = ""
+  description = "Certificate number: GR656109700DJ"
 
+[[item]]
+  organization = "Instytut PWN"
+  organization_url = "http://www.instytutpwn.pl/"
+  title = "Metody ilościowe w badaniach naukowych - warsztaty analityczne (Quantitative methods in the scientific research - an analytical workshops)"
+  url = ""
+  certificate_url = ""
+  date_start = "2014-12-08"
+  date_end = ""
+  description = "Lecturer: Prof. dr hab. Małgorzata Rószkiewicz"
+
+[[item]]
+  organization = "Instytut PWN"
+  organization_url = "http://www.instytutpwn.pl/"
+  title = "Stosowanie metod ilościowych i jakościowych w prowadzeniu badań naukowych (Qualitative and quantitative methods in the scientific research)"
+  url = ""
+  certificate_url = ""
+  date_start = "2014-05-22"
+  date_end = ""
+  description = "Lecturer: Prof. dr hab. Małgorzata Rószkiewicz"
+  
+[[item]]
+  organization = "http://wh.agh.edu.pl"
+  organization_url = "http://wh.agh.edu.pl"
+  title = "Didactic-excellence training"
+  url = "http://wh.agh.edu.pl/kurs-doskonalenia-dydaktycznego-dla-pracownikow-i-doktorantow/"
+  certificate_url = ""
+  date_start = "2012-10-01"
+  date_end = "2013-06-30"
+  description = "Certificate number: 182/2011"
+  
+ [[item]]
+  organization = "Tchnische Universitat Ilmenau (Ilmenau University of Technology"
+  organization_url = "https://www.tu-ilmenau.de/en/international/"
+  title = "1st Qualinet Summer School on Quality Assessment"
+  url = ""
+  certificate_url = ""
+  date_start = "2012-08-12"
+  date_end = "2012-08-17"
+  description = "Course topic: preparation and presentation of own research topic; lectures about multimedia quality evaluation, statistical data analysis, method design; Seminars on method design, data analysis; laboratory course on design and conduction of a study; presentations of study results"
 +++

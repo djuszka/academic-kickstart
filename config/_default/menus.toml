@@ -33,6 +33,11 @@
   url = "#awards"
   weight = 60
 
+ [[main]]
+  name = "Talks"
+  url = "#talks"
+  weight = 70
+
 #[[main]]
 #  name = "Posts"
 #  url = "#posts"

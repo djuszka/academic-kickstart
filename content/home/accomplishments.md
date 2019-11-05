@@ -89,7 +89,7 @@ date_format = "Jan 2006"
   description = "Lecturer: Prof. dr hab. Małgorzata Rószkiewicz"
   
 [[item]]
-  organization = "Faculty of Humanities, AGH-UST"
+  organization = "Faculty of Humanities AGH-UST"
   organization_url = "http://wh.agh.edu.pl"
   title = "Didactic-excellence training"
   url = "http://wh.agh.edu.pl/kurs-doskonalenia-dydaktycznego-dla-pracownikow-i-doktorantow/"

@@ -67,8 +67,8 @@ appointment_url = ""
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "address-book", icon_pack = "fas", name = "SKOS AGH", link = "https://skos.agh.edu.pl/osoba/dawid-juszka-9151.html"},
- # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
- # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
+  {icon = "university", icon_pack = "fas", name = "Official AGH-UST contacts and address", link = "https://www.agh.edu.pl/en/university/contact/"},
+  {icon = "handshake", icon_pack = "fas", name = "AGH University, Building B-9, room 3.11", link = "https://www.facebook.com/Katedra.Telekomunikacji.AGH/photos/a.150899868359117/2144050522377365/?type=3&theater"},
  # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
  ]
 

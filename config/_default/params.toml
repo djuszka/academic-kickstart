@@ -15,14 +15,14 @@ font = "default"
 description = "Dawid Juszka, Assistant professor at AGH University"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = "20190703_Obrony_9_face_center.jpg"
+sharing_image = ""
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
 twitter = "dawidjuszka"
 
 # Diplay a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-logo = "agh_znk_wbr_rgb_150ppi.jpg"
+logo = ""
 
 # Enable global source code highlighting? true/false
 # Documentation: https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
@@ -57,9 +57,9 @@ time_format = "3:04 PM"
 email = "juszka+WEB@agh.edu.pl"
 phone = "+48 12 617 35 99"
 address = "Office address: AGH University of Science and Technology, Building B-9, room 3.11, ul. Czarnowiejska 74, 30-054 Kraków, Poland"
-address = "For official correspondence: al. Mickiewicza 30, 30-059 Kraków, Poland"
+#address = "For official correspondence: al. Mickiewicza 30, 30-059 Kraków, Poland"
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-appointment = """Email to book an appointment"""
+office_hours = """Email to book an appointment"""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""

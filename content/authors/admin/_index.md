@@ -73,7 +73,10 @@ social:
   link: https://www.mendeley.com/profiles/dawid-juszka/
 - icon: academia
   icon_pack: ai
-  link: https://www.academia.com/
+  link: https://agh.academia.edu/DawidJuszka
+- icon: dblp
+  icon_pack: ai
+  link: https://dblp.uni-trier.de/search?q=Dawid+Juszka
   
 #- icon: github
 #  icon_pack: fab

@@ -19,25 +19,45 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "University of Cambridge - ESOL Examinations"
+  organization_url = "https://www.cambridgeenglish.org/"
+  title = "Certificate of Advanced English"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = ""
+  date_start = "2010-08-09"
   date_end = ""
-  description = ""
+  description = "Certificate Number: 0028598626"
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "University of Cambridge - ESOL Examinations"
+  organization_url = "https://www.cambridgeenglish.org/"
+  title = "Certificate of Advanced English"
+  url = ""
+  certificate_url = ""
+  date_start = "2013-01-13"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
+  description = "Certificate Number: 0038526224"
+
+[[item]]
+  organization = "European University Institute & Harvard Law School"
+  organization_url = "https://www.eui.eu/"
+  title = "Summer School on Law and Logic"
+  url = "https://lawandlogic.org/"
+  certificate_url = ""
+  date_start = "2013-07-15"
+  date_end = "2013-07-26"
+  description = "The basic course and the special course of the Summer School on Law and Logic, held at the European University Institute in Florence, Italy."
+
+[[item]]
+  organization = "European University Institute & Harvard Law School"
+  organization_url = "https://www.eui.eu/"
+  title = "Summer School on Law and Logic"
+  url = "https://lawandlogic.org/"
+  certificate_url = ""
+  date_start = "2014-07-14"
+  date_end = "2014-07-25"
+  description = "Special course of the Summer School on Law and Logic, held at the European University Institute in Florence, Italy."
+
 [[item]]
   organization = "DataCamp"
   organization_url = "https://www.datacamp.com"

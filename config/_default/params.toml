@@ -56,9 +56,9 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "juszka+WEB@agh.edu.pl"
 phone = "+48 12 617 35 99"
-address = "AGH University, Building B-9, room 3.11"
+# address = "AGH University, Building B-9, room 3.11"
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """Email to book an appointment"""
+# office_hours = """Email to book an appointment"""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""
@@ -66,10 +66,11 @@ appointment_url = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
+  {icon = "handshake", icon_pack = "fas", name = "Email to book an appointment", link = ""}
+  {icon = "building", icon_pack = "fas", name = "AGH University, Building B-9, room 3.11", link = "https://www.facebook.com/Katedra.Telekomunikacji.AGH/photos/a.150899868359117/2144050522377365/?type=3&theater"},
   {icon = "address-book", icon_pack = "fas", name = "SKOS AGH", link = "https://skos.agh.edu.pl/osoba/dawid-juszka-9151.html"},
-  {icon = "university", icon_pack = "fas", name = "Official AGH-UST contacts and address", link = "https://www.agh.edu.pl/en/university/contact/"},
-  {icon = "handshake", icon_pack = "fas", name = "AGH University, Building B-9, room 3.11", link = "https://www.facebook.com/Katedra.Telekomunikacji.AGH/photos/a.150899868359117/2144050522377365/?type=3&theater"},
- # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
+  {icon = "university", icon_pack = "fas", name = "Official AGH-UST address", link = "https://www.agh.edu.pl/en/university/contact/"},
+  # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
  ]
 
 # Display a map.

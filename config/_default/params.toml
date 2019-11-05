@@ -56,8 +56,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "juszka+WEB@agh.edu.pl"
 phone = "+48 12 617 35 99"
-address = "Office: AGH University, Building B-9, room 3.11, ul. Czarnowiejska 74, 30-054 Kraków, Poland <br> 
-Official correspondence: AGH University of Science and Technology, al. Mickiewicza 30, 30-059 Kraków, Poland"
+address = "AGH University, Building B-9, room 3.11"
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = """Email to book an appointment"""
 

@@ -107,4 +107,5 @@ date_format = "Jan 2006"
   date_start = "2012-08-12"
   date_end = "2012-08-17"
   description = "Course topic: preparation and presentation of own research topic; lectures about multimedia quality evaluation, statistical data analysis, method design; Seminars on method design, data analysis; laboratory course on design and conduction of a study; presentations of study results"
+  
 +++

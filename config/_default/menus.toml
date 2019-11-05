@@ -38,6 +38,11 @@
   url = "#talks"
   weight = 70
 
+ [[main]]
+  name = "Miscellaneous"
+  url = "#miscellaneous"
+  weight = 80
+
 #[[main]]
 #  name = "Posts"
 #  url = "#posts"
@@ -46,7 +51,7 @@
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 80
+  weight = 90
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

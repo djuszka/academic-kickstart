@@ -8,9 +8,9 @@ date: "2019-11-05T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 #external_link: http://example.org
 
-image:
-caption: '[Photo by Paweł Cegielski](/20190516_PromocjaDoktorska_2048_47.jpg)'
-  	focal_point: Smart
+#image:
+#caption: '[Photo by Paweł Cegielski](/20190516_PromocjaDoktorska_2048_47.jpg)'
+#  	focal_point: Smart
 ---
 
 # Modeling of legal knowledge using semantic networks

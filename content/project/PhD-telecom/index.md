@@ -9,7 +9,7 @@ date: "2019-11-05T00:00:00Z"
 #external_link: http://example.org
 
 image:
-	caption: '[Photo by Paweł Cegielski](/20190619_DawidPromocjaAGH_2048_24.jpg)'
+caption: '[Photo by Paweł Cegielski](/20190619_DawidPromocjaAGH_2048_24.jpg)'
   	focal_point: Smart
 ---
 

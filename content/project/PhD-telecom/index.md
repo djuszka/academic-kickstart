@@ -1,6 +1,6 @@
 ---
-title: PhD in Telecommunications
-summary: This is an abstract of my PhD thesis in Telecommunications.
+title: Analysis of content impact on subjective quality assessment of 3D video affected by bit-rate reduction
+summary: My Ph.D. thesis in Telecommunications.
 tags:
 - QoE
 date: "2019-11-05T00:00:00Z"
@@ -13,15 +13,7 @@ date: "2019-11-05T00:00:00Z"
 #  	focal_point: Smart
 ---
 
-# Analysis of content impact on subjective quality assessment of 3D video affected by bit-rate reduction
-
-**Supervisor:** prof. dr hab. inż. Zdzisław Papir (AGH-UST)
-
-**Auxiliary supervisor:** dr Bogdan Ćmiel (AGH-UST)
-
-**Reviewers:**  prof. dr hab. inż. Artur Przelaskowski and  dr hab. inż. Kazimierz Choroś, prof. n. PWr
-
-### Abstract of Ph. D. dissertation
+## Abstract of Ph.D. dissertation
 
 One of the fundamental problems in subjective Quality of Experience (QoE) assessment experiments design is source material selection which subsequently forms a basis for stimuli generation. Obviously, subjective experiments rely on human subjects, who cannot be treated only as quality degradation level detectors. A specificity of such experiments requires putting under investigation the source material which is as similar as possible to the video provided in real-life services. Some suggestions on source material selection issues can be found in related recommendations, and these seems not to have been proved scientifically – so broader research needs to be conducted. However, unfortunately, video sequences used in subjective experiments are substantially different from content widely available to users in Video-on-Demand repositories.
 
@@ -38,6 +30,11 @@ The obtained results show that quality assessment scores depend on intensity of 
 
 **Keywords:** content impact, test material selection, Quality of Experience, QoE, 3D, multimedia, video quality
 
+**Supervisor:** prof. dr hab. inż. Zdzisław Papir (AGH-UST)
+
+**Auxiliary supervisor:** dr Bogdan Ćmiel (AGH-UST)
+
+**Reviewers:**  prof. dr hab. inż. Artur Przelaskowski and  dr hab. inż. Kazimierz Choroś, prof. n. PWr
 
 
 ##### Acknowledgements

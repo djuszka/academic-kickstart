@@ -1,6 +1,6 @@
 ---
 title: Modelling of legal knowledge using semantic networks
-summary: This is an abstract of my PhD thesis in Law.
+summary: My PhD thesis in Law.
 tags:
 - AILaw
 date: "2019-11-05T00:00:00Z"
@@ -8,9 +8,9 @@ date: "2019-11-05T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 #external_link: http://example.org
 
-#image:
-#caption: '[Photo by Paweł Cegielski](content/project/PhD-law/20190516_PromocjaDoktorska_2048_47.jpg)'
-#focal_point: Smart
+image:
+    caption: '[Photo by Paweł Cegielski](content/project/PhD-law/20190516_PromocjaDoktorska_2048_47.jpg)'
+    focal_point: Smart
 ---
 
 ### Abstract of Ph.D. dissertation

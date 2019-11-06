@@ -71,22 +71,22 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Instytut PWN"
   organization_url = "http://www.instytutpwn.pl/"
-  title = "Metody ilościowe w badaniach naukowych - warsztaty analityczne (Quantitative methods in the scientific research - an analytical workshops)"
+  title = "Quantitative methods in the scientific research - an analytical workshops"
   url = ""
   certificate_url = ""
   date_start = "2014-12-08"
   date_end = ""
-  description = "Lecturer: Prof. dr hab. Małgorzata Rószkiewicz"
+  description = "Title in Polish: *Metody ilościowe w badaniach naukowych - warsztaty analityczne*; Lecturer: Prof. dr hab. Małgorzata Rószkiewicz"
 
 [[item]]
   organization = "Instytut PWN"
   organization_url = "http://www.instytutpwn.pl/"
-  title = "Stosowanie metod ilościowych i jakościowych w prowadzeniu badań naukowych (Qualitative and quantitative methods in the scientific research)"
+  title = "Application of qualitative and quantitative methods in the scientific research"
   url = ""
   certificate_url = ""
   date_start = "2014-05-22"
   date_end = ""
-  description = "Lecturer: Prof. dr hab. Małgorzata Rószkiewicz"
+  description = "Title in Polish: *Stosowanie metod ilościowych i jakościowych w prowadzeniu badań naukowych*; Lecturer: Prof. dr hab. Małgorzata Rószkiewicz"
 
 [[item]]
   organization = "Faculty of Humanities AGH-UST"

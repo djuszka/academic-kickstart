@@ -8,9 +8,9 @@ date: "2019-11-05T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 #external_link: http://example.org
 
-image:
-caption: '[Photo by Paweł Cegielski](/20190619_DawidPromocjaAGH_2048_24.jpg)'
-  	focal_point: Smart
+#image:
+#caption: '[Photo by Paweł Cegielski](/20190619_DawidPromocjaAGH_2048_24.jpg)'
+#  	focal_point: Smart
 ---
 
 # Analysis of content impact on subjective quality assessment of 3D video affected by bit-rate reduction

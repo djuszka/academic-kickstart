@@ -3,7 +3,7 @@
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 title = "Accomplish&shy;ments"
 subtitle = ""
@@ -87,7 +87,7 @@ date_format = "Jan 2006"
   date_start = "2014-05-22"
   date_end = ""
   description = "Lecturer: Prof. dr hab. Małgorzata Rószkiewicz"
-  
+
 [[item]]
   organization = "Faculty of Humanities AGH-UST"
   organization_url = "http://wh.agh.edu.pl"
@@ -97,7 +97,7 @@ date_format = "Jan 2006"
   date_start = "2012-10-01"
   date_end = "2013-06-30"
   description = "Certificate number: 182/2011"
-  
+
  [[item]]
   organization = "Tchnische Universitat Ilmenau (Ilmenau University of Technology"
   organization_url = "https://www.tu-ilmenau.de/en/international/"
@@ -107,5 +107,5 @@ date_format = "Jan 2006"
   date_start = "2012-08-12"
   date_end = "2012-08-17"
   description = "Course topic: preparation and presentation of own research topic; lectures about multimedia quality evaluation, statistical data analysis, method design; Seminars on method design, data analysis; laboratory course on design and conduction of a study; presentations of study results"
-  
+
 +++

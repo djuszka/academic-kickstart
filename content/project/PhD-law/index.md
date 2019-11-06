@@ -1,6 +1,6 @@
 ---
 title: Modelling of legal knowledge using semantic networks
-summary: My PhD thesis in Law.
+summary: My Ph.D. thesis in Law.
 tags:
 - AILaw
 date: "2019-11-05T00:00:00Z"

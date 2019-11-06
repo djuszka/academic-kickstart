@@ -1,5 +1,5 @@
 ---
-title: PhD in Law
+title: Modelling of legal knowledge using semantic networks
 summary: This is an abstract of my PhD thesis in Law.
 tags:
 - AILaw
@@ -9,11 +9,11 @@ date: "2019-11-05T00:00:00Z"
 #external_link: http://example.org
 
 #image:
-#caption: '[Photo by Paweł Cegielski](/20190516_PromocjaDoktorska_2048_47.jpg)'
-#  	focal_point: Smart
+caption: '[Photo by Paweł Cegielski](content/project/PhD-law/20190516_PromocjaDoktorska_2048_47.jpg)'
+  	focal_point: Smart
 ---
 
-# Modeling of legal knowledge using semantic networks
+# Modelling of legal knowledge using semantic networks
 
 **Supervisor:** prof. dr hab. Bartosz Brożek
 

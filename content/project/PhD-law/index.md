@@ -9,13 +9,13 @@ date: "2019-11-05T00:00:00Z"
 #external_link: http://example.org
 
 image:
-    caption: '[Photo by Paweł Cegielski](content/project/PhD-law/20190516_PromocjaDoktorska_2048_47.jpg)'
+    caption: '[Photo by Paweł Cegielski](http://pawelcegielski.pl/)'
     focal_point: Smart
 ---
 
-### Abstract of Ph.D. dissertation
+## Abstract of Ph.D. dissertation
 
-The "Modelling of legal knowledge using semantic networks" dissertation deals with the issue of creating ontologies used in the area of law, and complements the state of the art with the original domain ontology in the field of acquisition of property rights by acquisitive prescription in Polish law.
+The *"Modelling of legal knowledge using semantic networks"* dissertation deals with the issue of creating ontologies used in the area of law, and complements the state of the art with the original domain ontology in the field of acquisition of property rights by acquisitive prescription in Polish law.
 
 The rationale for taking up such subject is the development direction the legal industry has embarked upon through the use of modern solutions in the field of information and communication technologies (ICT). The dissertation focuses on the issues of applied law ontologies that can be part of the Semantic Web solutions. The Semantic Web idea is based on the evolution of the so-called Web-of-Documents in which users exchange information which they can interpret in a Web-of-Data wherein data is enriched by their meaning, so that the data can also be processed by computers. The development of technology has caused widespread access to many sources of information regardless of its physical location or the language in which it was coded. For this reason, many people have no problem getting information, but rather experience an information overload. Therefore, the increase in work efficiency will depend on the precise selection of information in a short time and in the growing resource of information. A huge amount of information means that this selection must be technically supported by appropriate analytical tools.
 

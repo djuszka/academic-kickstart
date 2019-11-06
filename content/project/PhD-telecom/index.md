@@ -9,7 +9,7 @@ date: "2019-11-05T00:00:00Z"
 #external_link: http://example.org
 
 image:
-    caption: '[Photo by Paweł Cegielski](content/project/PhD-telecom/20190619_DawidPromocjaAGH_2048_24.jpg)'
+    caption: '[Photo by Paweł Cegielski](http://pawelcegielski.pl/)'
     focal_point: Smart
 ---
 
@@ -37,7 +37,7 @@ The obtained results show that quality assessment scores depend on intensity of 
 **Reviewers:**  prof. dr hab. inż. Artur Przelaskowski and  dr hab. inż. Kazimierz Choroś, prof. n. PWr
 
 
-##### Acknowledgements
+## Acknowledgements
 
 This work would be impossible without the support from many remarkable people who were around me during previous years. Our life-paths have crossed, but they are innocent as a lamb.
 
@@ -51,7 +51,7 @@ My thanks are also due to my colleagues from Department of Telecommunications wi
 
 My time in room 309 at Department of Telecommunication was fruitful and spent in the wonderful presence of friends. I experienced a lot of support and motivation from an amazing marriage: Professor Katarzyna Kosek-Szott and Professor Szymon Szott. The role of Michał Grega Ph.D. is also remarkable -- his attitude, kindness, the way he works, manages projects and prepares grant applications helped me in my own attempts and in dealing with successes.
 
-Great influence on my attitude towards scientific work had philosophical seminars and discussions organized by Professors: Jerzy Stelmach, Bartosz Brożek and Wojciech Załuski from Copernicus Center for Interdisciplinary Studies in Krakow and Jagiellonian University. I would like to thank also my friends from these seminars: Mateusz Hohol, Bartłomiej Kucharzyk, Łukasz Kwiatek, Bartosz Janik, Mateusz Tondera, Katarzyna Eliasz, Julia Stanek, Karolina Prochownik, Aleksandra Głos and Khrystyna Pothapenko.
+Great influence on my attitude towards scientific work had philosophical seminars and discussions organized by Professors: Jerzy Stelmach, Bartosz Brożek and Wojciech Załuski from [Copernicus Center for Interdisciplinary Studies in Krakow](https://www.copernicuscenter.edu.pl/) and [Jagiellonian University]( https://www.law.uj.edu.pl/~kfpep/ ). I would like to thank also my friends from these seminars: [Mateusz Hohol](https://hohol.pl/), Bartłomiej Kucharzyk, Łukasz Kwiatek, Bartosz Janik, Mateusz Tondera, Katarzyna Eliasz, Julia Stanek, Karolina Prochownik, Aleksandra Głos and Khrystyna Pothapenko.
 
 Many thanks are also due to my friends: Michał Hajduk M.Sc., Konrad Gałczyński M.Sc., Michał Trzeciak M.Sc. and Michał Szachnitowski M.Sc. for their support and patience.
 

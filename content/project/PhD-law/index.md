@@ -13,15 +13,7 @@ date: "2019-11-05T00:00:00Z"
 #focal_point: Smart
 ---
 
-# Modelling of legal knowledge using semantic networks
-
-**Supervisor:** prof. dr hab. Bartosz Brożek
-
-**Auxiliary supervisor:** dr Łukasz Kurek
-
-**Reviewers:** Dr hab. Tomasz Pietrzykowski, prof. UŚ & Dr hab. Bartosz Wojciechowski, prof. UŁ
-
-### Abstract of Ph. D. dissertation
+### Abstract of Ph.D. dissertation
 
 The "Modelling of legal knowledge using semantic networks" dissertation deals with the issue of creating ontologies used in the area of law, and complements the state of the art with the original domain ontology in the field of acquisition of property rights by acquisitive prescription in Polish law.
 
@@ -70,5 +62,11 @@ In the face of the above observations, the main theoretical conclusions of the d
 **[W2]** The main problems associated with the use of Semantic Web knowledge modelling of the law are related to the dynamics of the law (the instability of legislation, judicature, the doctrine), peculiarities of natural language, the way legal definitions are constructed and the axiological dimension of the process of interpreting and applying the law.
 
 **[W3]** The limits of the applicability of the method of legal knowledge modelling with the use of semantic networks are determined by a set of assumptions that have to be adopted through inclusion in the construction of a relevant legal ontology.
+
+
+
+**Supervisor:** prof. dr hab. Bartosz Brożek
+**Auxiliary supervisor:** dr Łukasz Kurek
+**Reviewers:** Dr hab. Tomasz Pietrzykowski, prof. UŚ & Dr hab. Bartosz Wojciechowski, prof. UŁ
 
  

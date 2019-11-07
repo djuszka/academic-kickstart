@@ -12,7 +12,7 @@ date: "2019-11-05T00:00:00Z"
 external_link: https://syllabuskrk.agh.edu.pl/2019-2020/pl/magnesite/study_plans/stacjonarne-cyberbezpieczenstwo--2/module/icbz-1-107-s-zimowy-krajowy-system-cyberbezpieczenstwa
 
 #image:
-#    caption: '[Photo by Paweł Cegielski](http://pawelcegielski.pl/)'
+#    caption: '[Photo by Darwin Laganzon at Pixabay)'
 #    focal_point: Smart
 ---
 

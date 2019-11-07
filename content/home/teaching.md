@@ -26,16 +26,16 @@ subtitle = ""
      tag = "*"
 
    [[content.filter_button]]
-     name = "QoE"
-     tag = "QoE"
+     name = "IT"
+     tag = "IT"
 
    [[content.filter_button]]
-     name = "AI&Law"
-     tag = "AILaw"
+     name = "Law"
+     tag = "Law"
 
-  # [[content.filter_button]]
-  #   name = "Cybersecurity"
-  #   tag = "CS"
+   [[content.filter_button]]
+     name = "Cybersecurity"
+     tag = "CS"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

@@ -3,6 +3,7 @@ title: Krajowy system cyberbezpieczeństwa
 summary: Course "National cybersecurity system" delivered in Polish for Cybersecurity major at Faculty of Computer Science, Electronics and Telecommunications, AGH-UST.
 tags:
 - Law
+- CS
 - Course
 - Kurs
 date: "2019-11-05T00:00:00Z"

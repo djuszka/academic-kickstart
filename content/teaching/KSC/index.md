@@ -1,6 +1,7 @@
 ---
-title: Krajowy system cyberbezpieczeństwa
-summary: Course "National cybersecurity system" delivered in Polish for Cybersecurity major at Faculty of Computer Science, Electronics and Telecommunications, AGH-UST.
+title: National cyber security system
+subtitle: Krajowy system cyberbezpieczeństwa
+summary: Course "National cyber security system" delivered in Polish for Cybersecurity major at Faculty of Computer Science, Electronics and Telecommunications, AGH-UST.
 tags:
 - Law
 - CS
@@ -24,4 +25,8 @@ The aim of this course is presentation and explanation how polish cybersecurity 
 
 ## Lectures
 
-My contribution to this course mainly covers those aspects of jurisprudence and legal theory which are necessary for students to study legal acts and regulations connected with cybersecurity issues.   
+My contribution to this course mainly covers those aspects of jurisprudence and legal theory which are necessary for students to study legal acts and regulations connected with cybersecurity issues (especially during studies on [Cybersecurity](https://www.syllabus.agh.edu.pl/2019-2020/pl/magnesite/study_plans/stacjonarne-cyberbezpieczenstwo--2) major at Faculty of Computer Science, Electronics and Telecommuications, AGH-UST).   
+
+## Syllabus of this course
+
+[Fall 2019](https://www.syllabus.agh.edu.pl/2019-2020/pl/magnesite/study_plans/stacjonarne-cyberbezpieczenstwo--2/module/icbz-1-107-s-zimowy-krajowy-system-cyberbezpieczenstwa)

@@ -36,6 +36,13 @@ The obtained results show that quality assessment scores depend on intensity of 
 
 **Reviewers:**  prof. dr hab. inż. Artur Przelaskowski and  dr hab. inż. Kazimierz Choroś, prof. n. PWr
 
+## Funding
+
+- Dean's Grant 2013, Faculty of Computer Science, Electronics and Telecommunications, AGH University of Science and Technology, contract number: 15.11.230.092,
+- Dean's Grant 2014, Faculty of Computer Science, Electronics and Telecommunications, AGH University of Science and Technology, contract number: 15.11.230.149,
+- Dean's Grant 2015, Faculty of Computer Science, Electronics and Telecommunications, AGH University of Science and Technology, contract number: 15.11.120.195,
+- Dean's Grant 2016, Faculty of Computer Science, Electronics and Telecommunications, AGH University of Science and Technology, contract number: 15.11.120.267.
+
 
 ## Acknowledgements
 

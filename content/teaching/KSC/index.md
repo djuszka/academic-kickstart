@@ -1,7 +1,7 @@
 ---
 title: National cyber security system
 subtitle: Krajowy system cyberbezpieczeństwa
-summary: Course "National cyber security system" delivered in Polish for Cybersecurity major at Faculty of Computer Science, Electronics and Telecommunications, AGH-UST.
+summary: Course "National cyber security system" is delivered in Polish for Cybersecurity major at Faculty of Computer Science, Electronics and Telecommunications, AGH-UST.
 tags:
 - Law
 - CS
@@ -10,10 +10,10 @@ tags:
 date: "2019-11-05T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-#external_link: https://syllabuskrk.agh.edu.pl/2019-2020/pl/magnesite/study_plans/stacjonarne-cyberbezpieczenstwo--2/module/icbz-1-107-s-zimowy-krajowy-system-cyberbezpieczenstwa
+#external_link:
 
 #image:
-#    caption: '[Photo by Darwin Laganzon at Pixabay)'
+#    caption: 'Photo by Darwin Laganzon at Pixabay'
 #    focal_point: Smart
 ---
 
@@ -29,4 +29,4 @@ My contribution to this course mainly covers those aspects of jurisprudence and 
 
 ## Syllabus of this course
 
-[Fall 2019](https://www.syllabus.agh.edu.pl/2019-2020/pl/magnesite/study_plans/stacjonarne-cyberbezpieczenstwo--2/module/icbz-1-107-s-zimowy-krajowy-system-cyberbezpieczenstwa)
+[Autumn 2019](https://www.syllabus.agh.edu.pl/2019-2020/pl/magnesite/study_plans/stacjonarne-cyberbezpieczenstwo--2/module/icbz-1-107-s-zimowy-krajowy-system-cyberbezpieczenstwa)

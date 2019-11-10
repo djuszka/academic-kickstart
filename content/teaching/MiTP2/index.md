@@ -18,7 +18,7 @@ image:
 
 ## The aim of the course
 
-The aim of this course is introduce C++ programming language, Matlab environment and Python programming language. Course is addressed to first year students at  bachelor's degree.
+The aim of this course is to introduce C++ programming language, Matlab environment and Python programming language. Course is addressed to the first year undergraduate students.
 
 ## Laboratory sessions
 

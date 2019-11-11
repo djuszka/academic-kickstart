@@ -1,7 +1,7 @@
 ---
 title: Percepcja a technologia – granice i możliwości trzeciego wymiaru wideo
 event: Obrazy świata - V seria wykładów otwartych Centrum Kopernika Badań Interdyscyplinarnych
-event_url: https://www.granicenauki.pl/wydarzenia/dawid-juszka-percepcja-a-technologia-granice-i-mozliwosci-3d-35522
+event_url: "https://www.granicenauki.pl/wydarzenia/dawid-juszka-percepcja-a-technologia-granice-i-mozliwosci-3d-35522"
 
 location: De Revolutionibus Books & Cafe 
 address:

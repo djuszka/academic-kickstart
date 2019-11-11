@@ -1,7 +1,7 @@
 ---
-title: Percepcja a technologia – granice i możliwości trzeciego wymiaru wideo
-event: Obrazy świata - V seria wykładów otwartych Centrum Kopernika Badań Interdyscyplinarnych
-event_url: https://www.granicenauki.pl/wydarzenia/dawid-juszka-percepcja-a-technologia-granice-i-mozliwosci-3d-35522
+title: Śniadanie Mistrzów z prof. Andrzejem Jajszczykiem
+event: Copernicus Festival 2018
+event_url: https://copernicusfestival.com/?fyear=2019
 
 location: De Revolutionibus Books & Cafe 
 address:
@@ -11,19 +11,19 @@ address:
   postcode: '31-005'
   country: Poland
 
-summary: 
+summary: Interview with prof. Andrzej Jajszczyk (series "Breakfast with Masters") during Copernicus Festival 2019 in Kraków, Poland.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2014-03-26T18:00:00Z"
-date_end: "2014-03-26T19:30:00Z"
+date: "2018-05-27T10:00:00Z"
+date_end: "2018-05-27T11:30:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2014-03-20T00:00:00Z"
+publishDate: "2018-05-15T00:00:00Z"
 
 authors: [Dawid Juszka]
-tags: [QoE]
+tags: [interview]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -38,9 +38,9 @@ image:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 #url_code: ""
-#url_pdf: ""
-url_slides: "https://prezi.com/avcoewncddps/?token=ca877940ee274611336b9f1ed4517e8b92b56dc94a8b243dad15169d6c078faf&utm_campaign=share&utm_medium=copy"
-url_video: "https://www.youtube.com/watch?v=gS6KJwkPBfw"
+url_pdf: "http://jajszczyk.pl/wp-content/uploads/A_Jajszczyk_CV_Eng.pdf"
+#url_slides: "https://copernicusfestival.com/wp-content/uploads/2019/05/katalog_copernicus_2019.pdf"
+url_video: "https://www.youtube.com/watch?v=LWBEYmFXZWA"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -54,8 +54,7 @@ url_video: "https://www.youtube.com/watch?v=gS6KJwkPBfw"
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-- PhD-telecom
+projects = []
 
 # Enable math on this page?
 math: false

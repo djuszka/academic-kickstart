@@ -1,7 +1,7 @@
 ---
-title: Percepcja a technologia – granice i możliwości trzeciego wymiaru wideo
-event: Obrazy świata - V seria wykładów otwartych Centrum Kopernika Badań Interdyscyplinarnych
-event_url: https://www.granicenauki.pl/wydarzenia/dawid-juszka-percepcja-a-technologia-granice-i-mozliwosci-3d-35522
+title: 
+event: 
+event_url: 
 
 location: De Revolutionibus Books & Cafe 
 address:
@@ -23,7 +23,7 @@ all_day: false
 publishDate: "2014-03-20T00:00:00Z"
 
 authors: [Dawid Juszka]
-tags: [QoE]
+tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -39,8 +39,8 @@ image:
 #  url: https://twitter.com/georgecushen
 #url_code: ""
 #url_pdf: ""
-url_slides: "https://prezi.com/avcoewncddps/?token=ca877940ee274611336b9f1ed4517e8b92b56dc94a8b243dad15169d6c078faf&utm_campaign=share&utm_medium=copy"
-url_video: "https://www.youtube.com/watch?v=gS6KJwkPBfw"
+#url_slides: ""
+#url_video: ""
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -60,4 +60,18 @@ projects:
 # Enable math on this page?
 math: false
 ---
+
+{{% alert note %}}
+Click on the **Slides** button above to view the built-in slides feature.
+{{% /alert %}}
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic's [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
+
+
 

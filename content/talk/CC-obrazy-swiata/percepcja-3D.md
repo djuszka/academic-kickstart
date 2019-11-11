@@ -11,7 +11,7 @@ address:
   postcode: '31-005'
   country: Poland
 
-summary: 
+summary: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

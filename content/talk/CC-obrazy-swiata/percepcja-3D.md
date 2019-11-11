@@ -11,7 +11,7 @@ address:
   postcode: '31-005'
   country: Poland
 
-summary: ""
+summary: "W swojej prezentacji mgr inż. Dawid Juszka przedstawił technologiczne aspekty filmografii stereoskopowej (filmu 3D) nie pomijając jednak kognitywistycznych kwestii dotyczących percepcji głębi i widzenia przestrzennego."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

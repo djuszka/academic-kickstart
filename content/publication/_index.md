@@ -13,3 +13,6 @@ header:
   caption: ""
   image: ""
 ---
+
+List of my publications is presented here:  https://bpp.agh.edu.pl/autor/juszka-dawid-06799 
+

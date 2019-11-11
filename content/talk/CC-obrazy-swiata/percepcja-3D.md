@@ -32,13 +32,13 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
-#links:
+links:
 #- icon: twitter
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/georgecushen
-#url_code: ""
-#url_pdf: ""
+# url_code: ""
+# url_pdf: ""
 url_slides: "https://prezi.com/avcoewncddps/?token=ca877940ee274611336b9f1ed4517e8b92b56dc94a8b243dad15169d6c078faf&utm_campaign=share&utm_medium=copy"
 url_video: "https://www.youtube.com/watch?v=gS6KJwkPBfw"
 
@@ -47,7 +47,7 @@ url_video: "https://www.youtube.com/watch?v=gS6KJwkPBfw"
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-#slides: example
+#   slides: example
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

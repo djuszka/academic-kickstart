@@ -28,12 +28,16 @@ The project is financed by the European Union through the European Regional Deve
 
 #### Partners
 
-- Politechnika Warszawska 
-- Instytut Łączności - Państwowy Instytut Badawczy
-- Politechnika Wrocławska
-- Politechnika Poznańska
-- Poznańskie Centrum Superkomputerowo-Sieciowe (Instytut Chemii Bioorganicznej PAN)
-- Instytut Informatyki Teoretycznej i Stosowanej Polskiej Akademii Nauk
-- Politechnika Śląska
-- Politechnika Gdańska
-- Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie
+- Warsaw University of Technology 
+- National Institute of telecommunications
+- Wrocław University of Science and Technology
+- Poznan University of Technology
+- Poznań Supercomputing and Networking Center (Affiliated to the Institute of Bioorganic Chemistry of the Polish Academy of Sciences)
+- Institute of Theoretical and Applied Informatics, Polish Academy of Sciences
+- Silesian University of Technology
+- Gdańsk University of Technology
+- AGH University of Science and Technology
+
+## My contribution
+
+The scope of this project was very broad - works in all layers of OSI/ISO model were included. My team was involved in works at application layer - we were responsible for 3D content presentation. I was co-responsible for analysis of artifacts in 3D video content and preparation and conduction of QoE subjective experiments on 3D content displayed in various technologies.

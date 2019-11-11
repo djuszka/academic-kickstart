@@ -1,5 +1,6 @@
 ---
-title: Future Internet Engineering (Inżynieria Internetu Przyszłości) - European Regional Development Fund under the Operational Programme 'Innovative Economy'
+title: Future Internet Engineering
+summary: European Regional Development Fund under the Operational Programme 'Innovative Economy'
 tags:
 - QoE
 - 3D

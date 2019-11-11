@@ -39,8 +39,8 @@ links:
 #  url: https://twitter.com/georgecushen
 # url_code: ""
 # url_pdf: ""
-url_slides: "https://prezi.com/avcoewncddps/?token=ca877940ee274611336b9f1ed4517e8b92b56dc94a8b243dad15169d6c078faf&utm_campaign=share&utm_medium=copy"
-url_video: "https://www.youtube.com/watch?v=gS6KJwkPBfw"
+#url_slides: "https://prezi.com/avcoewncddps/?token=ca877940ee274611336b9f1ed4517e8b92b56dc94a8b243dad15169d6c078faf&utm_campaign=share&utm_medium=copy"
+#url_video: "https://www.youtube.com/watch?v=gS6KJwkPBfw"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

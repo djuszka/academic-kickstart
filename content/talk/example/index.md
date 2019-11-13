@@ -3,7 +3,7 @@ title: Śniadanie Mistrzów z prof. Andrzejem Jajszczykiem
 event: Copernicus Festival 2018
 event_url: https://copernicusfestival.com/?fyear=2018
 
-location: De Revolutionibus Books Cafe
+location: De Revolutionibus Books & Cafe
 address:
   street: Bracka 14
   city: Kraków
@@ -11,8 +11,8 @@ address:
   postcode: '31-005'
   country: Poland
 
-summary: An example talk using Academic's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: Interview with prof. Andrzej Jajszczyk (series "Breakfast with Masters") during Copernicus Festival 2019 in Kraków, Poland.
+abstract: "Interview with prof. Andrzej Jajszczyk (series "Breakfast with Masters") during Copernicus Festival 2019 in Kraków, Poland."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

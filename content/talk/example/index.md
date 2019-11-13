@@ -1,23 +1,23 @@
 ---
 title: Example Talk
-event: Academic Theme Conference
+event: Copernicus Festival 2019
 event_url: https://example.org
 
 location: Source Themes HQ
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
+  street: Bracka 14
+  city: Kraków
+  region: Lesserpoland
   postcode: '94305'
-  country: United States
+  country: Poland
 
 summary: An example talk using Academic's Markdown slides feature.
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2018-05-01T13:00:00Z"
+date_end: "2018-06-01T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).

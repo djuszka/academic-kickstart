@@ -12,6 +12,7 @@ address:
   country: Poland
 
 summary: Interview with prof. Andrzej Jajszczyk (series "Breakfast with Masters") during Copernicus Festival 2019 in Kraków, Poland.
+abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -20,7 +21,7 @@ date_end: "2018-05-27T11:30:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2018-05-15T00:00:00Z"
+publishDate: "2018-05-13T00:00:00Z"
 
 authors: [Dawid Juszka]
 tags: [interview]
@@ -47,7 +48,7 @@ url_video: "https://www.youtube.com/watch?v=LWBEYmFXZWA"
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-#slides: example
+slides: example
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

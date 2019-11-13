@@ -11,19 +11,19 @@ address:
   postcode: '31-005'
   country: Poland
 
-summary: Interview with prof. Andrzej Jajszczyk (series "Breakfast with Masters") during Copernicus Festival 2019 in Kraków, Poland.
-abstract: "Interview with prof. Andrzej Jajszczyk (series "Breakfast with Masters") during Copernicus Festival 2019 in Kraków, Poland."
+summary: Interview with prof. Andrzej Jajszczyk (series Breakfast with Masters) during Copernicus Festival 2018 in Kraków, Poland.
+abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2018-05-27T10:00:00Z"
-date_end: "2018-05-27T11:30:00Z"
+date: "2018-05-01T13:00:00Z"
+date_end: "2018-06-01T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2018-05-13T00:00:00Z"
+publishDate: "2017-01-01T00:00:00Z"
 
-authors: [Dawid Juszka]
+authors: []
 tags: []
 
 # Is this a featured talk? (true/false)

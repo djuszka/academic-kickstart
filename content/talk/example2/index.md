@@ -1,14 +1,14 @@
 ---
-title: Śniadanie Mistrzów z prof. Andrzejem Jajszczykiem
-event: Copernicus Festival 2018
-event_url: https://copernicusfestival.com/?fyear=2018
+title: Example Talk
+event: Copernicus Festival 2019
+event_url: https://example.org
 
-location: De Revolutionibus Books Cafe
+location: Source Themes HQ
 address:
   street: Bracka 14
   city: Kraków
   region: Lesserpoland
-  postcode: '31-005'
+  postcode: '94305'
   country: Poland
 
 summary: An example talk using Academic's Markdown slides feature.

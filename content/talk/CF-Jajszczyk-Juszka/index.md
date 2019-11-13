@@ -3,7 +3,7 @@ title: Śniadanie Mistrzów z prof. Andrzejem Jajszczykiem
 event: Copernicus Festival 2018
 event_url: https://copernicusfestival.com/?fyear=2019
 
-location: De Revolutionibus Books & Cafe 
+location: De Revolutionibus Books Cafe 
 address:
   street: Bracka 14
   city: Kraków
@@ -12,7 +12,7 @@ address:
   country: Poland
 
 summary: Interview with prof. Andrzej Jajszczyk (series "Breakfast with Masters") during Copernicus Festival 2019 in Kraków, Poland.
-abstract: ""
+abstract: "Interview with prof. Andrzej Jajszczyk (series "Breakfast with Masters") during Copernicus Festival 2019 in Kraków, Poland."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

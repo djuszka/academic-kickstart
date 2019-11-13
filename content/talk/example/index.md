@@ -16,12 +16,12 @@ abstract: "Interview with prof. Andrzej Jajszczyk (series Breakfast with Masters
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2018-05-27T13:00:00Z"
-date_end: "2018-05-27T15:00:00Z"
+date: "2018-05-27T10:00:00Z"
+date_end: "2018-05-27T11:30:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2018-05-13T00:00:00Z"
 
 authors: []
 tags: []
@@ -39,9 +39,9 @@ links:
   name: Follow
   url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: ""
+url_pdf: "http://jajszczyk.pl/wp-content/uploads/A_Jajszczyk_CV_Eng.pdf"
 url_slides: ""
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=LWBEYmFXZWA"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

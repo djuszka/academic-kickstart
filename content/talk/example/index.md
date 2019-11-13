@@ -3,7 +3,7 @@ title: Śniadanie Mistrzów z prof. Andrzejem Jajszczykiem
 event: Copernicus Festival 2018
 event_url: https://copernicusfestival.com/?fyear=2018
 
-location: De Revolutionibus Books & Cafe
+location: De Revolutionibus Books and Cafe
 address:
   street: Bracka 14
   city: Kraków

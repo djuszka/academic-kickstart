@@ -1,5 +1,5 @@
 ---
-title: Śniadanie Mistrzów z prof. Andrzejem Jajszczykiem
+title: Śniadanie Mistrzów z udziałem prof. Andrzeja Jajszczyka
 event: Copernicus Festival 2018
 event_url: https://copernicusfestival.com/?fyear=2018
 

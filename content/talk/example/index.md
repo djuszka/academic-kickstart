@@ -34,14 +34,14 @@ image:
   focal_point: Right
 
 links:
-#- icon: twitter
+#- icon: youtube
 #  icon_pack: fab
-#  name: Follow
-#  url: https://twitter.com/georgecushen
+#  name: watch
+#  url: https://youtu.be/LWBEYmFXZWA
 url_code: ""
 url_pdf: "http://jajszczyk.pl/wp-content/uploads/A_Jajszczyk_CV_Eng.pdf"
 url_slides: ""
-url_video: "https://youtu.be/LWBEYmFXZWA"
+url_video: ""
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

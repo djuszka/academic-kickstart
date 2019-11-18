@@ -8,7 +8,8 @@ abstract: "Cross talk is one of the most important parameters of the 3D displays
 featured: false
 publication: "*2011 IEEE International Symposium on Multimedia*"
 tags: ["3D display", "Crosstalk", "Luminance Measurement", "Objective Metric", "Shutter Glasses"]
-url_pdf: "http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=6123398"
+url_pdf: ""
 doi: "10.1109/ISM.2011.90"
+links = [{name = "IEEE Xplore", url = "http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=6123398"}]
 ---
 

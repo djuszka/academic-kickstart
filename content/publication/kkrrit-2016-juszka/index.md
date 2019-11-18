@@ -1,5 +1,5 @@
 ---
-title: "Badanie korelacji pomiȩdzy technicznymi parametrami obrazu wideo stereoskopowego (3D) a subiektywn ̧ocencţreści wideo"
+title: "Badanie korelacji pomiȩdzy technicznymi parametrami obrazu wideo stereoskopowego (3D) a subiektywną oceną treści wideo"
 date: 2016-01-01
 publishDate: 2019-11-18T10:55:49.891036Z
 authors: ["Dawid Juszka", "Zdzisław Papir"]

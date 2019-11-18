@@ -8,7 +8,6 @@ abstract: "Motion picture producers, providers and equipment developers have to 
 featured: false
 publication: "*User Centric Media. UCMEDIA 2010. Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering*"
 tags: ["3D Video", "QoE", "Quality of Experience", "quality metrics", "subjective tests"]
-links: [{name = "IEEE Xplore", url = "http://link.springer.com/10.1007/978-3-642-35145-7_9"}]
 doi: "10.1007/978-3-642-35145-7_9"
 ---
 

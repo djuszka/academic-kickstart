@@ -17,8 +17,8 @@ abstract: [Breakfast with Masters] Interview with prof. Andrzej Jajszczyk during
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2019-11-20T17:45:53+01:00
-date_end: 2019-11-20T17:45:53+01:00
+date: "2018-05-27T10:00:00Z"
+date_end: "2018-05-27T11:30:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).

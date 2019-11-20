@@ -10,19 +10,19 @@ address:
   street: Bracka 14
   city: Kraków
   region: Lesserpoland
-  postcode: '31-005'
+  postcode: 31-005
   country: Poland
 summary: [Breakfast with Masters] Interview with prof. Andrzej Jajszczyk during Copernicus Festival 2018 in Kraków, Poland.
 abstract: [Breakfast with Masters] Interview with prof. Andrzej Jajszczyk during Copernicus Festival 2018 in Kraków, Poland.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2018-05-27T10:00:00Z"
-date_end: "2018-05-27T11:30:00Z"
+date: 2018-05-27T10:00:00Z
+date_end: 2018-05-27T11:30:00Z
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2018-05-13T00:00:00Z"
+publishDate: 2018-05-13T00:00:00Z
 
 authors: []
 tags: []

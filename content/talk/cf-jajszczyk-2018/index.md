@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Śniadanie Mistrzów z udziałem prof. Andrzeja Jajszczyka"
+title: Śniadanie Mistrzów z udziałem prof. Andrzeja Jajszczyka
 event: Copernicus Festival 2018
 event_url: https://copernicusfestival.com/?fyear=2018
  
@@ -10,7 +10,7 @@ address:
   street: Bracka 14
   city: Kraków
   region: Lesserpoland
-  postcode: 31-005
+  postcode: '31-005'
   country: Poland
 summary: Breakfast with Masters series - an interview with prof. Andrzej Jajszczyk during Copernicus Festival 2018 in Kraków, Poland.
 abstract: Breakfast with Masters series - an interview with prof. Andrzej Jajszczyk during Copernicus Festival 2018 in Kraków, Poland.

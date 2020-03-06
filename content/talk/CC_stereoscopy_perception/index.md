@@ -1,32 +1,27 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "CC_court_decision_ML"
-event: "Czy w XXI w. oprogramowanie zastąpi prawników?"
+title: "CC_stereoscopy_perception"
+event:
 event_url:
 location:
 address:
-  street: "ul. Bracka 10"
-  city: "Kraków"
-  region: "małopolska"
-  postcode: 
-  country: "Polska"
-summary: "Dostępność coraz większej mocy obliczeniowej, wielkich zasobów danych oraz dynamiczny rozwój metod analizy danych i uczenia maszynowego skutkują tworzeniem aplikacji, które mają wpływ na zmianę sposobu wykonywania pracy w wielu obszarach gospodarki. Profesje prawnicze nie są w tym względzie wyjątkiem. Czy w XXI w. prawnicy zostaną zastąpieni przez systemy stworzone przez informatyków? Prezentacja dr. Dawida Juszki przybliży kilka badań dotyczących narzędzi wspomagających podejmowanie decyzji prawniczych.
-
-Dawid Juszka jest adiunktem w Katedrze Telekomunikacji Akademii Górniczo-Hutniczej im. Stanisława Staszica w Krakowie. Doktor nauk prawnych i doktor nauk technicznych w dyscyplinie telekomunikacja.
-
-Projekt finansowany w ramach programu Ministra Nauki i Szkolnictwa Wyższego pod nazwą "DIALOG" w latach 2016-2019"."
-
-abstract: 
+  street:
+  city:
+  region:
+  postcode:
+  country:
+summary:
+abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2019-03-06T11:16:12+01:00
-date_end: 2019-03-06T11:16:12+01:00
+date: 2020-03-06T11:30:43+01:00
+date_end: 2020-03-06T11:30:43+01:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-03-06T11:16:12+01:00
+publishDate: 2020-03-06T11:30:43+01:00
 
 authors: []
 tags: []
@@ -55,7 +50,7 @@ url_slides:
 
 url_code:
 url_pdf:
-url_video: https://www.youtube.com/watch?v=FauzRO0znY4
+url_video:
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

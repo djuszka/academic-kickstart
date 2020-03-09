@@ -13,9 +13,7 @@ address:
   country: "Polska"
 summary: "Dostępność coraz większej mocy obliczeniowej, wielkich zasobów danych oraz dynamiczny rozwój metod analizy danych i uczenia maszynowego skutkują tworzeniem aplikacji, które mają wpływ na zmianę sposobu wykonywania pracy w wielu obszarach gospodarki. Profesje prawnicze nie są w tym względzie wyjątkiem. Czy w XXI w. prawnicy zostaną zastąpieni przez systemy stworzone przez informatyków? Prezentacja dr. Dawida Juszki przybliży kilka badań dotyczących narzędzi wspomagających podejmowanie decyzji prawniczych.
 
-Dawid Juszka jest adiunktem w Katedrze Telekomunikacji Akademii Górniczo-Hutniczej im. Stanisława Staszica w Krakowie. Doktor nauk prawnych i doktor nauk technicznych w dyscyplinie telekomunikacja.
-
-Projekt finansowany w ramach programu Ministra Nauki i Szkolnictwa Wyższego pod nazwą "DIALOG" w latach 2016-2019"."
+Projekt finansowany w ramach programu Ministra Nauki i Szkolnictwa Wyższego pod nazwą DIALOG w latach 2016-2019."
 
 abstract: 
 
@@ -55,7 +53,7 @@ url_slides:
 
 url_code:
 url_pdf:
-url_video: https://www.youtube.com/watch?v=FauzRO0znY4
+url_video: "https://www.youtube.com/watch?v=FauzRO0znY4"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
